@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [GameTrove_app](https://game-trove-app.vercel.app/)
 
-- 🌱 I’m currently learning **React** and looking for a first job
+- 🌱 I’m currently learning **Next.js** and looking for a first job
 
 - 📫 How to reach me **lukasz.poczta12@gmail.com**
 
