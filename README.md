@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Poland</h3>
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5664c2f3e4b0957c43aa14f4/1627261945738-FO5OXHZT2RLNBKAFC2LD/coding.gif"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=engarr&label=Profile%20views&color=0e75b6&style=flat" alt="engarr" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=engarr&label=Profile%20views&color=0e75b6&style=flat" alt="engarr" target="_blank" /></p>
 
 - 🔭 I’m currently working on [Roadside_assistance_website](https://roadside-assistance-website.vercel.app/)
 
