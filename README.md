@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on <a href="https://github.com/Engarr/FlexFlow" target="_blank">FlexFlow app</a>
 
-- 🌱 I’m currently learning **Next.js** and looking for a **job**
+- 🌱Looking for a **job**
 
 - 📫 How to reach me **lukasz.poczta12@gmail.com**
 
